@@ -6,6 +6,9 @@
  * @subpackage Twenty_Fourteen
  * @since Twenty Fourteen 1.0
  */
+
+
+//ブランチtest
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
